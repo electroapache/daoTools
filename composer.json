@@ -1,0 +1,12 @@
+{
+    "name": "dyk/tools",
+    "description": "常用工具集",
+	"authors": [
+    {
+      "name": "daoyankong",
+      "email": "daoyankong@gmail.com"
+    }
+	],
+    "license": "MIT",
+    "require": {}
+}
