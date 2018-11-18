@@ -7,6 +7,11 @@
       "email": "daoyankong@gmail.com"
     }
 	],
+    "autoload": {
+      "psr-4": {
+        "DaoTools\\":"src/"
+      }
+    },
     "license": "MIT",
     "require": {}
 }
